@@ -15,6 +15,7 @@ public class SecurityConfig {
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers("/api/auth/**", "/healthcheck").permitAll()
                 .requestMatchers(HttpMethod.GET, "/api/content", "/api/content/destination").permitAll()
+                .requestMatchers("/dashboard.html").permitAll()
                 .anyRequest().authenticated()
             )
             .httpBasic();

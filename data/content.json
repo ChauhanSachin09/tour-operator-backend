@@ -1,7 +1,15 @@
 {
     "destinations": [
-        {"name": "Paris", "price": "1000 USD"},
-        {"name": "Bali", "price": "800 USD"}
+        {"name": "Goa", "price": "₹20,000 – ₹35,000", "contact": "MakeMyTrip"},
+        {"name": "Kerala", "price": "₹22,000 – ₹47,000", "contact": "TravelTriangle"},
+        {"name": "Rajasthan", "price": "₹45,000 – ₹85,000", "contact": "Yatra"},
+        {"name": "Manali", "price": "₹15,000 – ₹25,000", "contact": "Yatra"},
+        {"name": "Andaman", "price": "₹25,000 – ₹60,000", "contact": "Thomas Cook India"},
+        {"name": "Paris", "price": "$1,500 – $2,500", "contact": "Expedia"},
+        {"name": "Bali", "price": "$1,200 – $1,500", "contact": "Travelocity"},
+        {"name": "Dubai", "price": "$1,200 – $2,000", "contact": "Expedia"},
+        {"name": "Pune", "price": "₹15,000 – ₹25,000", "contact": "Thrillophilia"},
+        {"name": "Mumbai", "price": "₹17,800 – ₹21,320", "contact": "MakeMyTrip"}
     ],
     "contact": "https://wa.me/1234567890"
 }
