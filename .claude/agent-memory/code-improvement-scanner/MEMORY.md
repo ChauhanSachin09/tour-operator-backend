@@ -1,0 +1,2 @@
+- [Project Context](project_context.md) — Architectural constraints: monolith, file-backed, no DB, no service layer, no application.properties
+- [Recurring Issues](recurring_issues.md) — 14 anti-patterns found in first full scan (2026-06-13); includes severity for each

@@ -1,0 +1,7 @@
+{
+    "destinations": [
+        {"name": "Paris", "price": "1000 USD"},
+        {"name": "Bali", "price": "800 USD"}
+    ],
+    "contact": "https://wa.me/1234567890"
+}
